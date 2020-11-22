@@ -1,15 +1,8 @@
-### ant desing pro
+### book example site
 
-ant desing pro 里的 landing page. 
+Python3 反爬虫原理与绕过实战书籍配套练习平台 
 
 脚手架使用的是： [antd-init](https://github.com/ant-design/antd-init);
-
-## preview
-
-https://pro.ant.design
-
-https://ant-motion.github.io/ant-design-pro-landing-page/
-
 
 ## install
 ```
